@@ -1,0 +1,24 @@
+title: GCP DevOps blog
+description: >- # this means to ignore newlines until "baseurl:"
+
+ A collection of Google Cloud / DevOps / Python / Flask tools, guides and apps
+baseurl: "/blog-muse" # the sub-path of your site, e.g. /blog
+url: "https://amesones-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  amesones-dev
+linkedin_username: amesones-devops
+
+
+
+# Build settings
+markdown: GFM
+theme: minima
+
+
+plugins:
+ - jekyll-paginate
+
+paginate: 5
+# Relative to baseurl
+paginate_path: "/posts/page:num/"
+
+

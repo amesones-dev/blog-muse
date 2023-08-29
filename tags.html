@@ -1,0 +1,44 @@
+---
+layout: page
+title: Posts by tags
+permalink: /tags/
+---
+<style>
+.tagging span, .tagging.a {
+    padding: 6px 16px;
+    border: 1px solid #eee;
+    margin-left: -1px;
+    margin-right: -1px;
+    background-color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+.tagging ul {
+  list-style-type: none;
+}
+
+.tagging a {
+    &:hover {
+        background-color: #f1f1f1;
+        color: #333;
+    }
+ }
+
+.tagging {
+    text-align: center;
+ }
+</style>
+<div class="tagging">
+  <ul>
+  {% for tag in site.tags %}
+    <li>
+    <h5>{{ tag[0] }}</h5>
+      {% for post in tag[1] %}
+          <span><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+      {% endfor %}
+    </li>
+
+  {% endfor %}
+  </ul>
+</div>
