@@ -3,6 +3,7 @@ layout: post
 title:  "Running minikube on Cloud Shell"
 date:   2023-08-01
 categories: jekyll update
+tags: kubernetes gcp 
 ---
 Audience: 
 * You want to start using CI/CD procedures in Google Cloud Platform. 

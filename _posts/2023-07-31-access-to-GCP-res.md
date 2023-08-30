@@ -3,6 +3,7 @@ layout: post
 title:  "Access to GCP resources"
 date:   2023-07-31
 categories: jekyll update
+tags: gcp iam gcloud python
 ---
 
 ## Application access to Google Cloud resources in Python applications

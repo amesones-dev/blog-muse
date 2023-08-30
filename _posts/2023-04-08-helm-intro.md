@@ -3,6 +3,7 @@ layout: post
 title:  "Exploring Helm for agile K8S apps installation"
 date:   2023-08-04
 categories: jekyll update
+tags: kubernetes helm gke
 ---
 Audience: 
 * You want to start using CI/CD procedures in Google Cloud Platform.

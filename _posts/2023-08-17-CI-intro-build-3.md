@@ -3,7 +3,7 @@ layout: post
 title:  "CI basics: Managing artifacts (3/3)"
 date:   2023-08-17
 categories: jekyll update
-tags: CI/CD
+tags: CI/CD docker git
 ---
 
 Audience: 

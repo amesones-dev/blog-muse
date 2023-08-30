@@ -3,6 +3,7 @@ layout: post
 title:  "GCP python quickstart"
 date:   2023-07-27
 categories: jekyll update
+tags: gcp gcloud python
 ---
 Audience: 
 * You want to start using CI/CD procedures in Google Cloud Platform. 

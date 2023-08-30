@@ -3,7 +3,7 @@ layout: post
 title:  "CI basics: creating build from a git branch (1/3)"
 date:   2023-08-09
 categories: jekyll update
-tags: CI/CD
+tags: CI/CD docker git
 ---
 Audience: 
 * You want to start using CI/CD procedures in Google Cloud Platform.

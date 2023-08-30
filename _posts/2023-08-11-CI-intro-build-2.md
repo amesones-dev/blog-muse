@@ -3,7 +3,7 @@ layout: post
 title:  "CI basics: making tests an integral part of the build (2/3)"
 date:   2023-08-11
 categories: jekyll update
-tags: CI/CD
+tags: CI/CD docker git
 ---
 Audience: 
 * You want to start using CI/CD procedures in Google Cloud Platform.

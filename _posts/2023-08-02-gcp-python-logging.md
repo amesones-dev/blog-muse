@@ -3,7 +3,7 @@ layout: post
 title:  "Logging to Google Cloud"
 date:   2023-08-02
 categories: jekyll update
-tags: SRE Logging
+tags: SRE Logging gcp python
 ---
 Audience: 
 * You want to start using CI/CD procedures in Google Cloud Platform.
